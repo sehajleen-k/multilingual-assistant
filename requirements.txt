@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+anthropic
+elevenlabs
+python-dotenv
+python-multipart
+httpx
+beautifulsoup4
